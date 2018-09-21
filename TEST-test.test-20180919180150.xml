@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="test.test-20180919180150" tests="1" time="1.014">
+	<testcase classname="test.test" name="test_add" time="1.014"/>
+	<system-out>
+<![CDATA[Test start: Intelligence-SystemTesting-D0-Mock
+5
+Test end: Intelligence-SystemTesting-D0-Mock
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
